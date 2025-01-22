@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/574349366091924041/a0ec7bced8024ecda14a518b1e7c4a63/artifacts
+deleted_time: 1731903733686
+end_time: 1731903463136
+entry_point_name: ''
+experiment_id: '574349366091924041'
+lifecycle_stage: deleted
+run_id: a0ec7bced8024ecda14a518b1e7c4a63
+run_name: likeable-lamb-205
+run_uuid: a0ec7bced8024ecda14a518b1e7c4a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731903462929
+status: 3
+tags: []
+user_id: Cristian
